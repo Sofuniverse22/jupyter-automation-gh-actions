@@ -1,4 +1,5 @@
 import pandas as pd
+import random as random
 url = 'https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv'
 df = pd.read_csv(url, index_col=0)
 
