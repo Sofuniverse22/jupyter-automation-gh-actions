@@ -42,9 +42,9 @@ jobs:
       - id: commit
         name: Commit files
         run:
-          git config --local user.name actions-user
+          git config --local user.name sofuniverse
 
-          git config --local user.email "actions@github.com"
+          git config --local user.email "jinieos@naver.com"
 
           git add *
 
