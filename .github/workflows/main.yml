@@ -26,16 +26,16 @@ jobs:
 
       - id : python
         name : Python Setup & Packages Installation
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v2
         with:
           python-version: '3.9'
           cache: 'pip'
       - run: pip install -r requirements.txt
       
       
-      - id: pythonCode 
-        name: python3 Code Execution
-        run: python3 main.py
+      - id: jupyter
+        name: jupyter Notebook Excution
+        run: github_action.ipynb
         shell: bash 
 
  # Add new files in folder, commit along with other modified files, push
