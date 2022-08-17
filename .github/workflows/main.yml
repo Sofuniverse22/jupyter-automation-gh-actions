@@ -21,21 +21,21 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - id: repo
-      - name: Repo Checkout
+      - name : Repo Checkout
       - uses: actions/checkout@v3
 
-      - id: python
-      - name: Python Setup & Packages Installation
-      - uses: actions/setup-python@v4
-      - with: 
+      - id : python
+        name : Python Setup & Packages Installation
+        uses: actions/setup-python@v4
+        with:
           python-version: '3.9'
           cache: 'pip'
       - run: pip install -r requirements.txt
 
-      - id: pythonCode
-      - name: python3 Code Execution
-      - run: pyton3 main.py
-      - shell: bash
+      - id: pythonCode 
+        name: python3 Code Execution
+        run: python3 main.py
+        shell: bash 
 
 
  # Add new files in folder, commit along with other modified files, push
