@@ -91,7 +91,7 @@ GD,GRD,308,ISO 3166-2:GD,Americas,Latin America and the Caribbean,Caribbean,19.0
 GP,GLP,312,ISO 3166-2:GP,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0
 GU,GUM,316,ISO 3166-2:GU,Oceania,Micronesia,,9.0,57.0,
 GT,GTM,320,ISO 3166-2:GT,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0
-GG,GGY,831,ISO 3166-2:GG,Europe,Northern Europe,Channel Islands,150.0,154.0,830.0
+GG,GGY,831,ISO 3166-2:GG,Europe,Northern Europe,,150.0,154.0,
 GN,GIN,324,ISO 3166-2:GN,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0
 GW,GNB,624,ISO 3166-2:GW,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0
 GY,GUY,328,ISO 3166-2:GY,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
@@ -112,7 +112,7 @@ IL,ISR,376,ISO 3166-2:IL,Asia,Western Asia,,142.0,145.0,
 IT,ITA,380,ISO 3166-2:IT,Europe,Southern Europe,,150.0,39.0,
 JM,JAM,388,ISO 3166-2:JM,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0
 JP,JPN,392,ISO 3166-2:JP,Asia,Eastern Asia,,142.0,30.0,
-JE,JEY,832,ISO 3166-2:JE,Europe,Northern Europe,Channel Islands,150.0,154.0,830.0
+JE,JEY,832,ISO 3166-2:JE,Europe,Northern Europe,,150.0,154.0,
 JO,JOR,400,ISO 3166-2:JO,Asia,Western Asia,,142.0,145.0,
 KZ,KAZ,398,ISO 3166-2:KZ,Asia,Central Asia,,142.0,143.0,
 KE,KEN,404,ISO 3166-2:KE,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0
@@ -216,7 +216,7 @@ SJ,SJM,744,ISO 3166-2:SJ,Europe,Northern Europe,,150.0,154.0,
 SE,SWE,752,ISO 3166-2:SE,Europe,Northern Europe,,150.0,154.0,
 CH,CHE,756,ISO 3166-2:CH,Europe,Western Europe,,150.0,155.0,
 SY,SYR,760,ISO 3166-2:SY,Asia,Western Asia,,142.0,145.0,
-TW,TWN,158,ISO 3166-2:TW,Asia,Eastern Asia,,142.0,30.0,
+TW,TWN,158,ISO 3166-2:TW,,,,,,
 TJ,TJK,762,ISO 3166-2:TJ,Asia,Central Asia,,142.0,143.0,
 TZ,TZA,834,ISO 3166-2:TZ,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0
 TH,THA,764,ISO 3166-2:TH,Asia,South-eastern Asia,,142.0,35.0,
